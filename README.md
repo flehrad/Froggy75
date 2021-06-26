@@ -1,6 +1,6 @@
 # Froggy75
 
-Layout by Lara Rath
+Layout by Lara Ruth
 PCB design by Don Chiou (u/flehrad), The Board Podcast 26 June 2021
 
 This board is a 75% hotswap (Kailh/Gateron) through-hole style that utilises two EC-11 rotary encoders and an Elite-C daughterboard.
