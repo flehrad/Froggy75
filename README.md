@@ -10,3 +10,5 @@ The QMK for this board is currently undeveloped, however the schematic is provid
 Please note that to fit the board layout and unique encoder pins, a duplexed matrix was utilised to conserve sufficient pins for the 24-pin limit on the Elite-C.
 
 This gerber is open source for use, please attribute/acknowledge accordingly if used.
+
+This PCB is UNTESTED and not yet confirmed to work correctly, produce at your own risk.
