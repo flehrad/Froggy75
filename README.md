@@ -1,6 +1,6 @@
 # Froggy75
 
-Layout by Lara Ruth (Concept Sketch)
+Layout by Lara Rath (Concept Sketch)
 
 
 PCB design by Don Chiou (u/flehrad), The Board Podcast 26 June 2021
